@@ -5,8 +5,8 @@ Files in this repo:
 - [Information Security Management Practices: Case Studies](0972150917721836.pdf)
 - [Cyber Security Governance: A Component of MITRE's Cyber Prep Methodology](10_3710.pdf)
 - [Information Security Governance](740049.pdf)
-- [Ransomware Lessons for a Nation Held Hostage](Ransomware Lessons for a Nation Held Hostage - Lawfare.pdf)
-- [The FAIR Model Flowchart](The FAIR Model_FINAL_Web Only.pdf)
+- [Ransomware Lessons for a Nation Held Hostage](Ransomware%20Lessons%20for%20a%20Nation%20Held%20Hostage%20-%20Lawfare.pdf)
+- [The FAIR Model Flowchart](The%20FAIR%20Model_FINAL_Web%20Only.pdf)
 - [Cloud Security Basics](csi-cloud-security-basics.pdf)
 - [Data-Driven Security](data-driven-security.pdf)
 
